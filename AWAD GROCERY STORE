@@ -8,8 +8,8 @@
 </head>
 <body>
     <header>
-        <h1>Awad Grocery Store</h1>
-        <p>Owned by Lun Dan</p>
+        <h1>Demo Grocery Store</h1>
+        <p>Owned by john</p>
     </header>
 
     <nav>
@@ -39,17 +39,17 @@
 
     <section id="about">
         <h2>About Us</h2>
-        <p>ATC was founded by Lun Dan with the mission to provide fresh, high-quality groceries at affordable prices. We believe in local sourcing and excellent customer service.</p>
+        <p>ATC was founded by John with the mission to provide fresh, high-quality groceries at affordable prices. We believe in local sourcing and excellent customer service.</p>
     </section>
 
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Phone: 6377596085</p>
-        <p>Location: Rawat Aabadi Phanata</p>
+        <p>Phone: 6377596083</p>
+        <p>Location: Kolkata </p>
     </section>
 
     <footer>
-        <p>&copy; 2025 ATC Grocery Shop. All rights reserved.</p>
+        <p>&copy; 2025 Demo Grocery Shop. All rights reserved.</p>
     </footer>
 </body>
 </html>
